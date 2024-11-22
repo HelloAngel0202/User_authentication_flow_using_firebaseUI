@@ -1,0 +1,1 @@
+{"firestore":{"rules":"firestore.rules","indexes":"firestore.indexes.json"},"flutter":{"platforms":{"android":{"default":{"projectId":"flutterfire-ui-codelab-68aa6","appId":"1:289627937061:android:05674acfc11761b56fa2cc","fileOutput":"android/app/google-services.json"}}}}}
